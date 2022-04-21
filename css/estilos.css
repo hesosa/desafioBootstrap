@@ -1,0 +1,14 @@
+header h1{
+    color: black;
+text-align: center;}
+
+#galeria .col-lg-4 {
+    pad: 25px;
+}
+#galeria img{
+    width: 100%;
+}
+
+#galeria img:hover{
+    border: 5px solid rgb(165, 138, 30);
+}
